@@ -42,4 +42,5 @@ A simple command-line number guessing game written in Go. The computer randomly 
 git clone https://github.com/Snootsy/number-guessing-game.git
 cd number-guessing-game
 go run main.go
-  
+
+Or run main.exe files
