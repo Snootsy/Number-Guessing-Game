@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-**Project URL:** [https://github.com/yourusername/number-guessing-game](https://github.com/yourusername/number-guessing-game)
+**Project URL:** [(https://github.com/yourusername/number-guessing-game)](https://roadmap.sh/projects/number-guessing-game)
 
 ## Description
 A simple command-line number guessing game written in Go. The computer randomly selects a number between 1 and 100, and the player tries to guess it within a limited number of attempts. The number of attempts depends on the selected difficulty level.
